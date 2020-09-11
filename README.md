@@ -1,11 +1,11 @@
 # COMP2322-NetworkServer
-# This server only accept two HTTP request methods:
+This server only accept two HTTP request methods:
 1.GET
 2.HEAD
 
-# HTTP request methods others then the listed two will be regarded as bad request!!
+HTTP request methods others then the listed two will be regarded as bad request!!
 
-# There is a separate log file saving the access logs containing the following:
+There is a separate log file saving the access logs containing the following:
 1. Client IP address
 2. Access Time in GMT timezone
 3. Requested File
